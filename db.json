@@ -8,14 +8,14 @@
       "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A buttery, flaky pastry originating from France, typically enjoyed for breakfast or as a snack.",
-      "restaurant": {
-        "name": "Le Café",
-        "address": "123 Rue de la Boulangerie, Paris",
-        "timing": "7:00 AM - 9:00 PM",
-        "offers": "Freshly baked pastries and artisanal coffee",
-        "rating": 4.5,
-        "about": "Le Café is a quaint bakery in Paris known for its authentic French pastries and delightful ambiance."
-      }
+     "restaurant": {
+      "name": "Spice Route",
+      "address": "123 Main Street, New Delhi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "20% off on Tuesdays",
+      "rating": 4.7,
+      "about": "Spice Route offers a delightful journey through North Indian cuisine, blending traditional flavors with a modern twist."
+    }
     },
     {
       "id": 2,
@@ -25,14 +25,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
     "desc": "A classic cookie made with chocolate chips, offering a perfect blend of sweetness and texture.",
-      "restaurant": {
-        "name": "Sweet Delights",
-        "address": "456 Baker Street, New York",
-        "timing": "8:00 AM - 7:00 PM",
-        "offers": "Variety of freshly baked cookies and cakes",
-        "rating": 4.2,
-        "about": "Sweet Delights is a popular bakery in New York City, known for its delicious cookies and friendly service."
-      }
+       "restaurant": {
+      "name": "Tandoori Nights",
+      "address": "456 Park Avenue, Mumbai",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Free dessert on orders over Rs. 500",
+      "rating": 4.6,
+      "about": "Tandoori Nights is renowned for its authentic tandoori dishes, offering a vibrant dining experience in the heart of Mumbai."
+    }
     },
     {
       "id": 3,
@@ -42,14 +42,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A long, thin loaf of French bread with a crisp crust and soft interior, ideal for sandwiches.",
-      "restaurant": {
-        "name": "La Boulangerie",
-        "address": "789 Avenue du Pain, Lyon",
-        "timing": "6:30 AM - 8:00 PM",
-        "offers": "Authentic French breads and pastries",
-        "rating": 4.6,
-        "about": "La Boulangerie is a renowned bakery in Lyon, famous for its traditional French breads baked fresh daily."
-      }
+    "restaurant": {
+      "name": "Punjabi Tadka",
+      "address": "789 Commercial Road, Chandigarh",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "10% off for first-time visitors",
+      "rating": 4.8,
+      "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
+    }
     },
     {
       "id": 4,
@@ -59,14 +59,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A sweet roll with cinnamon filling, topped with cream cheese or sugar glaze.",
-      "restaurant": {
-        "name": "Cinnamon Haven",
-        "address": "890 Maple Avenue, Chicago",
-        "timing": "7:00 AM - 6:00 PM",
-        "offers": "Specialty cinnamon rolls and coffee",
-        "rating": 4.4,
-        "about": "Cinnamon Haven is a cozy bakery in Chicago known for its heavenly cinnamon rolls and artisanal coffee."
-      }
+     "restaurant": {
+      "name": "Amritsari Delights",
+      "address": "234 MG Road, Amritsar",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
+      "rating": 4.5,
+      "about": "Amritsari Delights brings the taste of Amritsar to your plate, specializing in robust flavors of North Indian cuisine."
+    }
     },
     {
       "id": 5,
@@ -76,14 +76,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A moist and fluffy muffin filled with juicy blueberries, perfect for a quick breakfast or snack.",
-      "restaurant": {
-        "name": "Berry Delights",
-        "address": "345 Berry Lane, San Francisco",
-        "timing": "6:00 AM - 5:00 PM",
-        "offers": "Variety of muffins and cakes",
-        "rating": 4.3,
-        "about": "Berry Delights is a charming bakery in San Francisco, known for its delightful blueberry muffins and seasonal treats."
-      }
+    "restaurant": {
+      "name": "Royal Rasoi",
+      "address": "567 Brigade Road, Bangalore",
+      "timing": "12:30 PM - 11:00 PM",
+      "offers": "Lunch buffet at Rs. 399",
+      "rating": 4.9,
+      "about": "Royal Rasoi offers a royal dining experience with a wide array of vegetarian and non-vegetarian dishes from across India."
+    }
     },
     {
       "id": 6,
@@ -93,14 +93,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A traditional pie filled with spiced apples, baked to golden perfection.",
-      "restaurant": {
-        "name": "Apple Haven",
-        "address": "567 Orchard Street, Seattle",
-        "timing": "8:00 AM - 8:00 PM",
-        "offers": "Freshly baked pies and desserts",
-        "rating": 4.5,
-        "about": "Apple Haven is a cozy bakery in Seattle known for its scrumptious apple pies and warm hospitality."
-      }
+       "restaurant": {
+      "name": "Delhi Darbar",
+      "address": "890 Connaught Place, Delhi",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "Weekend brunch specials",
+      "rating": 4.7,
+      "about": "Delhi Darbar is a landmark in Delhi known for its traditional Indian breakfast and hearty North Indian meals throughout the day."
+    }
     },
     {
       "id": 7,
@@ -110,14 +110,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A fried dough confectionery, often ring-shaped, glazed, or filled with various creams or jellies.",
-      "restaurant": {
-        "name": "Glazed Delights",
-        "address": "234 Donut Drive, Los Angeles",
-        "timing": "6:30 AM - 7:00 PM",
-        "offers": "Wide selection of gourmet donuts",
-        "rating": 4.4,
-        "about": "Glazed Delights is a popular donut shop in Los Angeles, offering a variety of gourmet donuts and coffee."
-      }
+       "restaurant": {
+      "name": "Lucknowi Bawarchi",
+      "address": "345 Hazratganj, Lucknow",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on weekdays",
+      "rating": 4.6,
+      "about": "Lucknowi Bawarchi serves authentic Lucknowi cuisine, showcasing the rich culinary heritage of Uttar Pradesh."
+    }
     },
     {
       "id": 8,
@@ -127,14 +127,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
    "desc": "A bread made from naturally fermented dough, resulting in a tangy flavor and chewy texture.",
-      "restaurant": {
-        "name": "Sourdough Haven",
-        "address": "890 Baker's Lane, San Diego",
-        "timing": "7:00 AM - 6:00 PM",
-        "offers": "Freshly baked sourdough and sandwiches",
-        "rating": 4.3,
-        "about": "Sourdough Haven is a favorite bakery in San Diego known for its artisanal sourdough bread and wholesome sandwiches."
-      }
+       "restaurant": {
+      "name": "Jaipur Spice",
+      "address": "678 Pink City Road, Jaipur",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Chef's special thali",
+      "rating": 4.5,
+      "about": "Jaipur Spice brings the flavors of Rajasthan to life with its aromatic Rajasthani dishes and vibrant ambiance."
+    }
     },
     {
       "id": 9,
@@ -144,14 +144,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A light, flaky pastry typically topped or filled with fruit, custard, or cream cheese.",
-      "restaurant": {
-        "name": "Royal Pastries",
-        "address": "123 Royal Avenue, London",
-        "timing": "7:30 AM - 7:00 PM",
-        "offers": "Exquisite pastries and afternoon tea",
-        "rating": 4.5,
-        "about": "Royal Pastries is a prestigious bakery in London, known for its exquisite Danish pastries and traditional afternoon tea."
-      }
+       "restaurant": {
+      "name": "Agra Palace",
+      "address": "901 Taj Ganj, Agra",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "Buy 2 main courses, get 1 free appetizer",
+      "rating": 4.7,
+      "about": "Agra Palace offers a taste of Agra's royal Mughlai cuisine, known for its rich flavors and exquisite presentation."
+    }
     },
     {
       "id": 10,
@@ -161,14 +161,14 @@
           "type": "Vegetarian",
       "category": "Bakery",
       "desc": "Soft, square-shaped bread rolls, popular in India and often served with spicy dishes like pav bhaji.",
-      "restaurant": {
-        "name": "Mumbai Street Eats",
-        "address": "567 Pav Bhaji Lane, Mumbai",
-        "timing": "10:00 AM - 9:00 PM",
-        "offers": "Authentic Mumbai street food",
-        "rating": 4.2,
-        "about": "Mumbai Street Eats is a bustling eatery in Mumbai, known for its authentic pav bhaji and freshly baked pav bread."
-      }
+     "restaurant": {
+      "name": "Mughlai Dastarkhwan",
+      "address": "123 Gomti Nagar, Lucknow",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.8,
+      "about": "Mughlai Dastarkhwan offers a regal dining experience with its exquisite Mughlai cuisine, known for its aromatic spices and richness."
+    }
     },
     {
       "id": 11,
@@ -179,13 +179,13 @@
       "category": "Bakery",
      "desc": "A baked knot-shaped bread, typically sprinkled with salt and enjoyed as a snack.",
       "restaurant": {
-        "name": "Pretzel Paradise",
-        "address": "456 Salty Street, Munich",
-        "timing": "8:00 AM - 6:00 PM",
-        "offers": "Freshly baked pretzels and Bavarian specialties",
-        "rating": 4.4,
-        "about": "Pretzel Paradise is a charming bakery in Munich known for its authentic Bavarian pretzels and warm hospitality."
-      }
+      "name": "Rajasthani Rangoli",
+      "address": "456 Udaipur Circle, Udaipur",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Weekend family discounts",
+      "rating": 4.6,
+      "about": "Rajasthani Rangoli celebrates the flavors of Rajasthan with its traditional tandoori dishes and warm hospitality."
+    }
     },
    {
       "id": 12,
@@ -195,14 +195,14 @@
         "type": "Vegetarian",
       "category": "Bakery",
      "desc": "A custard-filled pastry with chocolate icing on top, known for its creamy and decadent flavor.",
-      "restaurant": {
-        "name": "Éclair Delights",
-        "address": "789 Chocolate Avenue, Brussels",
-        "timing": "9:00 AM - 7:00 PM",
-        "offers": "Variety of éclairs and Belgian chocolates",
-        "rating": 4.7,
-        "about": "Éclair Delights is a renowned bakery in Brussels, celebrated for its exquisite éclairs and fine Belgian chocolates."
-      }
+    "restaurant": {
+      "name": "Varanasi Vaishnavi",
+      "address": "789 Kashi Vishwanath Gali, Varanasi",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "15% off on weekends",
+      "rating": 4.8,
+      "about": "Varanasi Vaishnavi specializes in authentic Varanasi cuisine, blending traditional flavors with a touch of modern flair."
+    }
     },
     {
       "id": 13,
@@ -213,13 +213,13 @@
       "category": "Bakery",
     "desc": "A flaky croissant filled with almond paste and topped with sliced almonds, offering a delightful nutty flavor.",
       "restaurant": {
-        "name": "Nuts & Bolts Bakery",
-        "address": "456 Nutty Lane, Berlin",
-        "timing": "7:00 AM - 8:00 PM",
-        "offers": "Specialty nut-filled pastries and baked goods",
-        "rating": 4.6,
-        "about": "Nuts & Bolts Bakery in Berlin is known for its delicious almond croissants and a variety of nut-filled pastries."
-      }
+      "name": "Patiala Junction",
+      "address": "234 GT Road, Patiala",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Happy Hour: 3:00 PM - 6:00 PM",
+      "rating": 4.6,
+      "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
+    }
     },
     {
       "id": 14,
@@ -230,13 +230,13 @@
       "category": "Bakery",
       "desc": "A chewy and sweet confection made with coconut flakes, perfect for coconut lovers.",
       "restaurant": {
-        "name": "Coco Bliss Bakery",
-        "address": "789 Coconut Avenue, Chennai",
-        "timing": "8:00 AM - 6:00 PM",
-        "offers": "Freshly baked coconut-based desserts and pastries",
-        "rating": 4.4,
-        "about": "Coco Bliss Bakery in Chennai specializes in coconut-based desserts, including delightful coconut macaroons."
-      }
+      "name": "Kashmiri Khazana",
+      "address": "567 Dal Lake View, Srinagar",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off for dine-in",
+      "rating": 4.7,
+      "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
+    }
     }
   ]
 }
