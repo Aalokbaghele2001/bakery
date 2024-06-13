@@ -6,7 +6,7 @@
       "image": "https://www.example.com/croissant.jpg",
       "price": 50,
       "category": "Bakery",
-      "description": "A buttery, flaky pastry originating from France, typically enjoyed for breakfast or as a snack.",
+      "desc": "A buttery, flaky pastry originating from France, typically enjoyed for breakfast or as a snack.",
       "restaurant": {
         "name": "Le Café",
         "address": "123 Rue de la Boulangerie, Paris",
@@ -22,7 +22,7 @@
       "image": "https://www.example.com/chocolate_chip_cookie.jpg",
       "price": 20,
       "category": "Bakery",
-      "description": "A classic cookie made with chocolate chips, offering a perfect blend of sweetness and texture.",
+    "desc": "A classic cookie made with chocolate chips, offering a perfect blend of sweetness and texture.",
       "restaurant": {
         "name": "Sweet Delights",
         "address": "456 Baker Street, New York",
@@ -38,7 +38,7 @@
       "image": "https://www.example.com/baguette.jpg",
       "price": 40,
       "category": "Bakery",
-      "description": "A long, thin loaf of French bread with a crisp crust and soft interior, ideal for sandwiches.",
+      "desc": "A long, thin loaf of French bread with a crisp crust and soft interior, ideal for sandwiches.",
       "restaurant": {
         "name": "La Boulangerie",
         "address": "789 Avenue du Pain, Lyon",
@@ -54,7 +54,7 @@
       "image": "https://www.example.com/cinnamon_roll.jpg",
       "price": 60,
       "category": "Bakery",
-      "description": "A sweet roll with cinnamon filling, topped with cream cheese or sugar glaze.",
+      "desc": "A sweet roll with cinnamon filling, topped with cream cheese or sugar glaze.",
       "restaurant": {
         "name": "Cinnamon Haven",
         "address": "890 Maple Avenue, Chicago",
@@ -70,7 +70,7 @@
       "image": "https://www.example.com/blueberry_muffin.jpg",
       "price": 30,
       "category": "Bakery",
-      "description": "A moist and fluffy muffin filled with juicy blueberries, perfect for a quick breakfast or snack.",
+      "desc": "A moist and fluffy muffin filled with juicy blueberries, perfect for a quick breakfast or snack.",
       "restaurant": {
         "name": "Berry Delights",
         "address": "345 Berry Lane, San Francisco",
@@ -86,7 +86,7 @@
       "image": "https://www.example.com/apple_pie.jpg",
       "price": 100,
       "category": "Bakery",
-      "description": "A traditional pie filled with spiced apples, baked to golden perfection.",
+      "desc": "A traditional pie filled with spiced apples, baked to golden perfection.",
       "restaurant": {
         "name": "Apple Haven",
         "address": "567 Orchard Street, Seattle",
@@ -102,7 +102,7 @@
       "image": "https://www.example.com/donut.jpg",
       "price": 25,
       "category": "Bakery",
-      "description": "A fried dough confectionery, often ring-shaped, glazed, or filled with various creams or jellies.",
+      "desc": "A fried dough confectionery, often ring-shaped, glazed, or filled with various creams or jellies.",
       "restaurant": {
         "name": "Glazed Delights",
         "address": "234 Donut Drive, Los Angeles",
@@ -118,7 +118,7 @@
       "image": "https://www.example.com/sourdough_bread.jpg",
       "price": 50,
       "category": "Bakery",
-      "description": "A bread made from naturally fermented dough, resulting in a tangy flavor and chewy texture.",
+   "desc": "A bread made from naturally fermented dough, resulting in a tangy flavor and chewy texture.",
       "restaurant": {
         "name": "Sourdough Haven",
         "address": "890 Baker's Lane, San Diego",
@@ -134,7 +134,7 @@
       "image": "https://www.example.com/danish_pastry.jpg",
       "price": 45,
       "category": "Bakery",
-      "description": "A light, flaky pastry typically topped or filled with fruit, custard, or cream cheese.",
+      "desc": "A light, flaky pastry typically topped or filled with fruit, custard, or cream cheese.",
       "restaurant": {
         "name": "Royal Pastries",
         "address": "123 Royal Avenue, London",
@@ -150,7 +150,7 @@
       "image": "https://www.example.com/pav_bread.jpg",
       "price": 15,
       "category": "Bakery",
-      "description": "Soft, square-shaped bread rolls, popular in India and often served with spicy dishes like pav bhaji.",
+      "desc": "Soft, square-shaped bread rolls, popular in India and often served with spicy dishes like pav bhaji.",
       "restaurant": {
         "name": "Mumbai Street Eats",
         "address": "567 Pav Bhaji Lane, Mumbai",
@@ -166,7 +166,7 @@
       "image": "https://www.example.com/pretzel.jpg",
       "price": 35,
       "category": "Bakery",
-      "description": "A baked knot-shaped bread, typically sprinkled with salt and enjoyed as a snack.",
+     "desc": "A baked knot-shaped bread, typically sprinkled with salt and enjoyed as a snack.",
       "restaurant": {
         "name": "Pretzel Paradise",
         "address": "456 Salty Street, Munich",
@@ -182,7 +182,7 @@
       "image": "https://www.example.com/chocolate_eclair.jpg",
       "price": 75,
       "category": "Bakery",
-      "description": "A custard-filled pastry with chocolate icing on top, known for its creamy and decadent flavor.",
+     "desc": "A custard-filled pastry with chocolate icing on top, known for its creamy and decadent flavor.",
       "restaurant": {
         "name": "Éclair Delights",
         "address": "789 Chocolate Avenue, Brussels",
@@ -198,7 +198,7 @@
       "image": "https://www.example.com/almond_croissant.jpg",
       "price": 65,
       "category": "Bakery",
-      "description": "A flaky croissant filled with almond paste and topped with sliced almonds, offering a delightful nutty flavor.",
+    "desc": "A flaky croissant filled with almond paste and topped with sliced almonds, offering a delightful nutty flavor.",
       "restaurant": {
         "name": "Nuts & Bolts Bakery",
         "address": "456 Nutty Lane, Berlin",
@@ -214,7 +214,7 @@
       "image": "https://www.example.com/coconut_macaroon.jpg",
       "price": 40,
       "category": "Bakery",
-      "description": "A chewy and sweet confection made with coconut flakes, perfect for coconut lovers.",
+      "desc": "A chewy and sweet confection made with coconut flakes, perfect for coconut lovers.",
       "restaurant": {
         "name": "Coco Bliss Bakery",
         "address": "789 Coconut Avenue, Chennai",
