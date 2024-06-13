@@ -5,6 +5,7 @@
       "dish": "Croissant",
       "image": "https://www.example.com/croissant.jpg",
       "price": 50,
+      "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A buttery, flaky pastry originating from France, typically enjoyed for breakfast or as a snack.",
       "restaurant": {
@@ -21,6 +22,7 @@
       "dish": "Chocolate Chip Cookie",
       "image": "https://www.example.com/chocolate_chip_cookie.jpg",
       "price": 20,
+          "type": "Vegetarian",
       "category": "Bakery",
     "desc": "A classic cookie made with chocolate chips, offering a perfect blend of sweetness and texture.",
       "restaurant": {
@@ -37,6 +39,7 @@
       "dish": "Baguette",
       "image": "https://www.example.com/baguette.jpg",
       "price": 40,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A long, thin loaf of French bread with a crisp crust and soft interior, ideal for sandwiches.",
       "restaurant": {
@@ -53,6 +56,7 @@
       "dish": "Cinnamon Roll",
       "image": "https://www.example.com/cinnamon_roll.jpg",
       "price": 60,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A sweet roll with cinnamon filling, topped with cream cheese or sugar glaze.",
       "restaurant": {
@@ -69,6 +73,7 @@
       "dish": "Blueberry Muffin",
       "image": "https://www.example.com/blueberry_muffin.jpg",
       "price": 30,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A moist and fluffy muffin filled with juicy blueberries, perfect for a quick breakfast or snack.",
       "restaurant": {
@@ -85,6 +90,7 @@
       "dish": "Apple Pie",
       "image": "https://www.example.com/apple_pie.jpg",
       "price": 100,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A traditional pie filled with spiced apples, baked to golden perfection.",
       "restaurant": {
@@ -101,6 +107,7 @@
       "dish": "Donut",
       "image": "https://www.example.com/donut.jpg",
       "price": 25,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A fried dough confectionery, often ring-shaped, glazed, or filled with various creams or jellies.",
       "restaurant": {
@@ -117,6 +124,7 @@
       "dish": "Sourdough Bread",
       "image": "https://www.example.com/sourdough_bread.jpg",
       "price": 50,
+          "type": "Vegetarian",
       "category": "Bakery",
    "desc": "A bread made from naturally fermented dough, resulting in a tangy flavor and chewy texture.",
       "restaurant": {
@@ -133,6 +141,7 @@
       "dish": "Danish Pastry",
       "image": "https://www.example.com/danish_pastry.jpg",
       "price": 45,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A light, flaky pastry typically topped or filled with fruit, custard, or cream cheese.",
       "restaurant": {
@@ -149,6 +158,7 @@
       "dish": "Pav Bread",
       "image": "https://www.example.com/pav_bread.jpg",
       "price": 15,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "Soft, square-shaped bread rolls, popular in India and often served with spicy dishes like pav bhaji.",
       "restaurant": {
@@ -165,6 +175,7 @@
       "dish": "Pretzel",
       "image": "https://www.example.com/pretzel.jpg",
       "price": 35,
+          "type": "Vegetarian",
       "category": "Bakery",
      "desc": "A baked knot-shaped bread, typically sprinkled with salt and enjoyed as a snack.",
       "restaurant": {
@@ -181,6 +192,7 @@
       "dish": "Chocolate Éclair",
       "image": "https://www.example.com/chocolate_eclair.jpg",
       "price": 75,
+        "type": "Vegetarian",
       "category": "Bakery",
      "desc": "A custard-filled pastry with chocolate icing on top, known for its creamy and decadent flavor.",
       "restaurant": {
@@ -197,6 +209,7 @@
       "dish": "Almond Croissant",
       "image": "https://www.example.com/almond_croissant.jpg",
       "price": 65,
+          "type": "Vegetarian",
       "category": "Bakery",
     "desc": "A flaky croissant filled with almond paste and topped with sliced almonds, offering a delightful nutty flavor.",
       "restaurant": {
@@ -213,6 +226,7 @@
       "dish": "Coconut Macaroon",
       "image": "https://www.example.com/coconut_macaroon.jpg",
       "price": 40,
+          "type": "Vegetarian",
       "category": "Bakery",
       "desc": "A chewy and sweet confection made with coconut flakes, perfect for coconut lovers.",
       "restaurant": {
