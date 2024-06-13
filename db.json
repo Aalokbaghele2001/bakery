@@ -1,0 +1,228 @@
+{
+  "bakery": [
+    {
+      "id": 1,
+      "item": "Croissant",
+      "image": "https://www.example.com/croissant.jpg",
+      "price": 50,
+      "category": "Bakery",
+      "description": "A buttery, flaky pastry originating from France, typically enjoyed for breakfast or as a snack.",
+      "restaurant": {
+        "name": "Le Café",
+        "address": "123 Rue de la Boulangerie, Paris",
+        "timing": "7:00 AM - 9:00 PM",
+        "offers": "Freshly baked pastries and artisanal coffee",
+        "rating": 4.5,
+        "about": "Le Café is a quaint bakery in Paris known for its authentic French pastries and delightful ambiance."
+      }
+    },
+    {
+      "id": 2,
+      "item": "Chocolate Chip Cookie",
+      "image": "https://www.example.com/chocolate_chip_cookie.jpg",
+      "price": 20,
+      "category": "Bakery",
+      "description": "A classic cookie made with chocolate chips, offering a perfect blend of sweetness and texture.",
+      "restaurant": {
+        "name": "Sweet Delights",
+        "address": "456 Baker Street, New York",
+        "timing": "8:00 AM - 7:00 PM",
+        "offers": "Variety of freshly baked cookies and cakes",
+        "rating": 4.2,
+        "about": "Sweet Delights is a popular bakery in New York City, known for its delicious cookies and friendly service."
+      }
+    },
+    {
+      "id": 3,
+      "item": "Baguette",
+      "image": "https://www.example.com/baguette.jpg",
+      "price": 40,
+      "category": "Bakery",
+      "description": "A long, thin loaf of French bread with a crisp crust and soft interior, ideal for sandwiches.",
+      "restaurant": {
+        "name": "La Boulangerie",
+        "address": "789 Avenue du Pain, Lyon",
+        "timing": "6:30 AM - 8:00 PM",
+        "offers": "Authentic French breads and pastries",
+        "rating": 4.6,
+        "about": "La Boulangerie is a renowned bakery in Lyon, famous for its traditional French breads baked fresh daily."
+      }
+    },
+    {
+      "id": 4,
+      "item": "Cinnamon Roll",
+      "image": "https://www.example.com/cinnamon_roll.jpg",
+      "price": 60,
+      "category": "Bakery",
+      "description": "A sweet roll with cinnamon filling, topped with cream cheese or sugar glaze.",
+      "restaurant": {
+        "name": "Cinnamon Haven",
+        "address": "890 Maple Avenue, Chicago",
+        "timing": "7:00 AM - 6:00 PM",
+        "offers": "Specialty cinnamon rolls and coffee",
+        "rating": 4.4,
+        "about": "Cinnamon Haven is a cozy bakery in Chicago known for its heavenly cinnamon rolls and artisanal coffee."
+      }
+    },
+    {
+      "id": 5,
+      "item": "Blueberry Muffin",
+      "image": "https://www.example.com/blueberry_muffin.jpg",
+      "price": 30,
+      "category": "Bakery",
+      "description": "A moist and fluffy muffin filled with juicy blueberries, perfect for a quick breakfast or snack.",
+      "restaurant": {
+        "name": "Berry Delights",
+        "address": "345 Berry Lane, San Francisco",
+        "timing": "6:00 AM - 5:00 PM",
+        "offers": "Variety of muffins and cakes",
+        "rating": 4.3,
+        "about": "Berry Delights is a charming bakery in San Francisco, known for its delightful blueberry muffins and seasonal treats."
+      }
+    },
+    {
+      "id": 6,
+      "item": "Apple Pie",
+      "image": "https://www.example.com/apple_pie.jpg",
+      "price": 100,
+      "category": "Bakery",
+      "description": "A traditional pie filled with spiced apples, baked to golden perfection.",
+      "restaurant": {
+        "name": "Apple Haven",
+        "address": "567 Orchard Street, Seattle",
+        "timing": "8:00 AM - 8:00 PM",
+        "offers": "Freshly baked pies and desserts",
+        "rating": 4.5,
+        "about": "Apple Haven is a cozy bakery in Seattle known for its scrumptious apple pies and warm hospitality."
+      }
+    },
+    {
+      "id": 7,
+      "item": "Donut",
+      "image": "https://www.example.com/donut.jpg",
+      "price": 25,
+      "category": "Bakery",
+      "description": "A fried dough confectionery, often ring-shaped, glazed, or filled with various creams or jellies.",
+      "restaurant": {
+        "name": "Glazed Delights",
+        "address": "234 Donut Drive, Los Angeles",
+        "timing": "6:30 AM - 7:00 PM",
+        "offers": "Wide selection of gourmet donuts",
+        "rating": 4.4,
+        "about": "Glazed Delights is a popular donut shop in Los Angeles, offering a variety of gourmet donuts and coffee."
+      }
+    },
+    {
+      "id": 8,
+      "item": "Sourdough Bread",
+      "image": "https://www.example.com/sourdough_bread.jpg",
+      "price": 50,
+      "category": "Bakery",
+      "description": "A bread made from naturally fermented dough, resulting in a tangy flavor and chewy texture.",
+      "restaurant": {
+        "name": "Sourdough Haven",
+        "address": "890 Baker's Lane, San Diego",
+        "timing": "7:00 AM - 6:00 PM",
+        "offers": "Freshly baked sourdough and sandwiches",
+        "rating": 4.3,
+        "about": "Sourdough Haven is a favorite bakery in San Diego known for its artisanal sourdough bread and wholesome sandwiches."
+      }
+    },
+    {
+      "id": 9,
+      "item": "Danish Pastry",
+      "image": "https://www.example.com/danish_pastry.jpg",
+      "price": 45,
+      "category": "Bakery",
+      "description": "A light, flaky pastry typically topped or filled with fruit, custard, or cream cheese.",
+      "restaurant": {
+        "name": "Royal Pastries",
+        "address": "123 Royal Avenue, London",
+        "timing": "7:30 AM - 7:00 PM",
+        "offers": "Exquisite pastries and afternoon tea",
+        "rating": 4.5,
+        "about": "Royal Pastries is a prestigious bakery in London, known for its exquisite Danish pastries and traditional afternoon tea."
+      }
+    },
+    {
+      "id": 10,
+      "item": "Pav Bread",
+      "image": "https://www.example.com/pav_bread.jpg",
+      "price": 15,
+      "category": "Bakery",
+      "description": "Soft, square-shaped bread rolls, popular in India and often served with spicy dishes like pav bhaji.",
+      "restaurant": {
+        "name": "Mumbai Street Eats",
+        "address": "567 Pav Bhaji Lane, Mumbai",
+        "timing": "10:00 AM - 9:00 PM",
+        "offers": "Authentic Mumbai street food",
+        "rating": 4.2,
+        "about": "Mumbai Street Eats is a bustling eatery in Mumbai, known for its authentic pav bhaji and freshly baked pav bread."
+      }
+    },
+    {
+      "id": 11,
+      "item": "Pretzel",
+      "image": "https://www.example.com/pretzel.jpg",
+      "price": 35,
+      "category": "Bakery",
+      "description": "A baked knot-shaped bread, typically sprinkled with salt and enjoyed as a snack.",
+      "restaurant": {
+        "name": "Pretzel Paradise",
+        "address": "456 Salty Street, Munich",
+        "timing": "8:00 AM - 6:00 PM",
+        "offers": "Freshly baked pretzels and Bavarian specialties",
+        "rating": 4.4,
+        "about": "Pretzel Paradise is a charming bakery in Munich known for its authentic Bavarian pretzels and warm hospitality."
+      }
+    },
+      {
+      "id": 12,
+      "item": "Chocolate Éclair",
+      "image": "https://www.example.com/chocolate_eclair.jpg",
+      "price": 75,
+      "category": "Bakery",
+      "description": "A custard-filled pastry with chocolate icing on top, known for its creamy and decadent flavor.",
+      "restaurant": {
+        "name": "Éclair Delights",
+        "address": "789 Chocolate Avenue, Brussels",
+        "timing": "9:00 AM - 7:00 PM",
+        "offers": "Variety of éclairs and Belgian chocolates",
+        "rating": 4.7,
+        "about": "Éclair Delights is a renowned bakery in Brussels, celebrated for its exquisite éclairs and fine Belgian chocolates."
+      }
+    },
+    {
+      "id": 13,
+      "item": "Almond Croissant",
+      "image": "https://www.example.com/almond_croissant.jpg",
+      "price": 65,
+      "category": "Bakery",
+      "description": "A flaky croissant filled with almond paste and topped with sliced almonds, offering a delightful nutty flavor.",
+      "restaurant": {
+        "name": "Nuts & Bolts Bakery",
+        "address": "456 Nutty Lane, Berlin",
+        "timing": "7:00 AM - 8:00 PM",
+        "offers": "Specialty nut-filled pastries and baked goods",
+        "rating": 4.6,
+        "about": "Nuts & Bolts Bakery in Berlin is known for its delicious almond croissants and a variety of nut-filled pastries."
+      }
+    },
+    {
+      "id": 14,
+      "item": "Coconut Macaroon",
+      "image": "https://www.example.com/coconut_macaroon.jpg",
+      "price": 40,
+      "category": "Bakery",
+      "description": "A chewy and sweet confection made with coconut flakes, perfect for coconut lovers.",
+      "restaurant": {
+        "name": "Coco Bliss Bakery",
+        "address": "789 Coconut Avenue, Chennai",
+        "timing": "8:00 AM - 6:00 PM",
+        "offers": "Freshly baked coconut-based desserts and pastries",
+        "rating": 4.4,
+        "about": "Coco Bliss Bakery in Chennai specializes in coconut-based desserts, including delightful coconut macaroons."
+      }
+    }
+  ]
+}
